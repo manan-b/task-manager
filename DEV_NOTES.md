@@ -6,3 +6,4 @@ Update: Create basic Task model - 2025-11-26 19:24:00
 Update: Setup API routes structure - 2025-11-26 20:21:00
 Update: Implement GET tasks endpoint - 2025-11-26 21:00:00
 Update: Implement POST task endpoint - 2025-11-26 22:36:00
+Update: Add error handling middleware - 2025-11-26 23:52:00
