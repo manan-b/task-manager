@@ -13,3 +13,4 @@ Update: Create basic layout components - 2025-11-27 13:33:00
 Update: Implement TaskCard component - 2025-11-27 16:21:00
 Update: Add drag and drop context - 2025-11-27 18:48:00
 Update: Implement Kanban column structure - 2025-11-27 20:46:00
+Update: Connect frontend to backend API - 2025-11-27 22:35:00
