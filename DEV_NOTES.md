@@ -35,3 +35,4 @@ Update: Update dependency versions - 2025-11-29 17:13:00
 Update: Refactor hook logic - 2025-11-29 17:53:00
 Update: Improve error messages - 2025-11-29 18:40:00
 Update: Add loading spinners - 2025-11-29 19:56:00
+Update: Fix drag and drop glitches - 2025-11-29 21:20:00
