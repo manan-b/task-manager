@@ -24,11 +24,8 @@ if (require.main === module) {
     const startServer = async () => {
         try {
             app.listen(PORT, () => {
-                console.log(`🚀 Server is running on port ${PORT}`);
-                console.log(`📝 API endpoint: http://localhost:${PORT}/api/tasks`);
             });
         } catch (error) {
-            console.error('Failed to start server:', error);
             process.exit(1);
         }
     };

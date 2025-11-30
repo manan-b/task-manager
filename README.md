@@ -2,7 +2,7 @@
 
 A modern full-stack Kanban-style task management dashboard with React frontend and Node.js/Express/MongoDB backend.
 
-- #### Live URL: [Task-Management-Dashboard](https://task-management-dashboard-mu.vercel.app/)
+- #### Live URL: [Task-Management-Dashboard](https://kanban-board-manan-b.vercel.app/)
 
 ## Features
 

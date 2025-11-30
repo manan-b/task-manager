@@ -30,7 +30,6 @@ const TaskDetailsModal: React.FC<TaskDetailsModalProps> = ({
       await deleteTask(task.id);
       onClose();
     } catch (error) {
-      // Error handling
     }
   };
 
@@ -51,7 +50,6 @@ const TaskDetailsModal: React.FC<TaskDetailsModalProps> = ({
       await updateTask(updatedTask);
       setIsEditing(false);
     } catch (error) {
-      // Error handling
     } finally {
       setIsSubmitting(false);
     }
