@@ -37,7 +37,7 @@ const AddTaskModal: React.FC<AddTaskModalProps> = ({ isOpen, onClose }) => {
       setStatus("todo");
       onClose();
     } catch (error) {
-      console.error("Error adding task:", error);
+      // Error handling
     } finally {
       setIsSubmitting(false);
     }

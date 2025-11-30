@@ -18,7 +18,6 @@ app.get('/', (req: Request, res: Response) => {
 
 app.use('/api/tasks', taskRoutes);
 
-// Connect to database
 connectDB();
 
 if (require.main === module) {
